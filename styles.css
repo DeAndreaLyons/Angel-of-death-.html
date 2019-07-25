@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+    background-image: url(http://img1.ak.crunchyroll.com/i/spire4/cea8e310e9ae5dbb95994a2ba373a6181521552229_full.jpg)
+}
+
+li{
+    background-color: red;
+}
+
+li{
+    color: blue;
+}
+h1{
+    background-color: violet;
+}
+
+h1{
+    color: red;
+}
+ul{
+    border-style:solid;
+}
+
