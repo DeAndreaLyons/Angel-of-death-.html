@@ -1,6 +1,5 @@
 body{
-    background-color: pink;
-    background-image: url(http://img1.ak.crunchyroll.com/i/spire4/cea8e310e9ae5dbb95994a2ba373a6181521552229_full.jpg)
+ background-image: url("https://pm1.narvii.com/6519/819180ef49ba506527ee0f1d9cd27aa67074e685_hq.jpg")
 }
 
 li{
@@ -21,3 +20,10 @@ ul{
     border-style:solid;
 }
 
+ul{
+    margin: 50px
+}
+
+p{
+    color:white;
+}
