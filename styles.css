@@ -8,9 +8,11 @@ li{
 
 li{
     color: blue;
+    font-family: 'Fira Code', monospace;
 }
 h1{
     background-color: violet;
+
 }
 
 h1{
@@ -26,4 +28,13 @@ ul{
 
 p{
     color:white;
+}
+
+li{
+    font-style:Monospace
+
+}
+
+h1{
+    font-family: 'Lacquer', sans-serif;
 }
